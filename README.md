@@ -38,14 +38,3 @@ jupyter notebook
 | Bivariate Gaussian (ρ = 0.8) | 0.5108 | ~0.50 |
 | XOR | 0.6931 (ln 2) | ~0.69 |
 
-## Reference
-
-```bibtex
-@inproceedings{belghazi2018mine,
-  title     = {Mutual Information Neural Estimation},
-  author    = {Belghazi, Mohamed Ishmael and Baratin, Aristide and Rajeswar, Sai and
-               Ozair, Sherjil and Bengio, Yoshua and Courville, Aaron and Hjelm, R Devon},
-  booktitle = {Proceedings of the 35th International Conference on Machine Learning},
-  year      = {2018}
-}
-```
