@@ -35,6 +35,6 @@ jupyter notebook
 
 | Experiment | True MI (nats) | MINE estimate |
 |------------|:--------------:|:-------------:|
-| Bivariate Gaussian (ρ = 0.8) | 0.5108 | ~0.50 |
+| Bivariate Gaussian (ρ = 0.8) |1.28| ~1.28 |
 | XOR | 0.6931 (ln 2) | ~0.69 |
 
